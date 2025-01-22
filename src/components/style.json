@@ -1,0 +1,4 @@
+{ "con1": { "color": "blue", "fontSize": "20px", "fontStyle":"italic" },
+
+"con2": { "color": "orange", "fontSize": "25px" ,"fontStyle":"italic"} }
+
